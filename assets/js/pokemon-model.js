@@ -5,4 +5,10 @@ class Pokemon {
     type;
     types = [];
     photo;
+    // Modal
+    abilities; // mais de uma
+    height;
+    weight;
+    stats = []; // vários
+    moves = []; // dezenas
 }
